@@ -1,0 +1,15 @@
+ros-jazzy-open-sound-control (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Fix license for metapackage
+  * Contributors: Chris I-B
+
+ -- Chris Iverach-Brereton <ve4cib@gmail.com>  Wed, 19 Mar 2025 04:00:00 -0000
+
+ros-jazzy-open-sound-control (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Initial release
+  * Contributors: Chris I-B
+
+ -- Chris Iverach-Brereton <ve4cib@gmail.com>  Sat, 15 Mar 2025 04:00:00 -0000
+
+
