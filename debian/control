@@ -1,0 +1,12 @@
+Source: ros-jazzy-open-sound-control
+Section: misc
+Priority: optional
+Maintainer: Chris Iverach-Brereton <ve4cib@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-open-sound-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-open-sound-control-bridge, ros-jazzy-open-sound-control-msgs, ros-jazzy-ros-workspace
+Description: Metapackage for ROS/Open Sound Control bridge
