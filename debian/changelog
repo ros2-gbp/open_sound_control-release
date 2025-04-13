@@ -1,0 +1,16 @@
+ros-jazzy-open-sound-control-bridge (0.0.2-1bookworm) bookworm; urgency=high
+
+  * Implement separate static & dynamic OSC->ROS behaviour.
+  * Separate the code into multiple files to keep things manageable
+  * Contributors: Chris I-B
+
+ -- Chris Iverach-Brereton <ve4cib@gmail.com>  Wed, 19 Mar 2025 04:00:00 -0000
+
+ros-jazzy-open-sound-control-bridge (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Initial release
+  * Contributors: Chris I-B
+
+ -- Chris Iverach-Brereton <ve4cib@gmail.com>  Sat, 15 Mar 2025 04:00:00 -0000
+
+
